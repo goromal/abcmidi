@@ -46,7 +46,7 @@ prefix = /usr/local
 exec_prefix = ${prefix}
 
 srcdir = .
-VPATH = .
+
 bindir = ${exec_prefix}/bin
 libdir = ${exec_prefix}/lib
 datadir = ${prefix}/share
